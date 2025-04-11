@@ -1,0 +1,9 @@
+body{
+font,family:Arial;
+Background-color:"pink";
+text-algin:center;
+}
+header img
+{
+width:100px;
+}
